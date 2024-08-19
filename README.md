@@ -4,7 +4,7 @@
 
 ## Site🌐
 
-[ 🔗 Clique aqui para acessar](https://whatslabe-puce.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://whatslab1.vercel.app/)
 
 ## 🛠️ Tecnologias
 - Reactjs
